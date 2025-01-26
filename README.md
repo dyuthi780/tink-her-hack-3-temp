@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Three Musketeers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Dyuthi K] - [GCEK]
+- Member 2: [Armida Rose] - [GCEK]
+- Member 3: [Nihara P] - [GCEK]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
